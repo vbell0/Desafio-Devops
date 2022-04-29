@@ -8,9 +8,9 @@
 - **docker**: *Docker version 20.10.12, build 20.10.12-0ubuntu2~20.04.1*
 - **docker-compose**: *docker-compose version 1.29.2, build 5becea4c*
 
-Para executar o modo dev `make dev`
+Para executar o modo dev `make dev` na rota `localhost:8002`
 
-Para executar o modo de prod `make dev` [esse modo e ilustrativo nao recomendo utilizar essa estrategia]
+Para executar o modo de prod `make dev` na rota `localhost:80` [esse modo e ilustrativo nao recomendo utilizar essa estrategia]
 
 Caso queira desligar o server de `CTRL + C`
 ## Como foi feito o desafio
